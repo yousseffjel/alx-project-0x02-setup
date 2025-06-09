@@ -1,1 +1,1 @@
-ALX Project 0x02 SetUP
+Next.js Project Setup and Basics
